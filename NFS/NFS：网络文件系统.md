@@ -30,11 +30,11 @@ NFS本身是没有提供信息传输的协议和功能的，可以理解为NFS�
 
 ## 1.2：NFS文件系统
 
-![image](https://github.com/handsomezhuzhuzhu/linuxstudy/tree/master/NFS/Images/1565753999869.png)
+![image](https://github.com/handsomezhuzhuzhu/linuxstudy/blob/master/NFS/Images/1565753999869.png)
 
 ## 1.3：NFS工作原理
 
-![image](https://github.com/handsomezhuzhuzhu/linuxstudy/tree/master/NFS/Images/1565754019102.png)
+![image](https://github.com/handsomezhuzhuzhu/linuxstudy/blob/master/NFS/Images/1565753999869.png)
 
 ## 1.4：NFS各版本对比
 
