@@ -41,6 +41,10 @@ server.3=192.168.172.93:2888:3888
 查看zookeeper状态：
 # /usr/local/zookeeper/bin/zkServer.sh status #状态分为follower和leader
 
+容器中查看zookeeper状态：
+#docker exec -it 容器名 bash
+#echo "status" | nc 127.0.0.1 2181
+
 生成数据：（在其中一个各节点生成数据，在其他节点查询此数据）
 # /usr/local/zookeeper/bin/zkCli.sh -server 192.168.172.91:2181
 create /test "hello"
